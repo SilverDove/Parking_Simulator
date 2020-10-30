@@ -66,3 +66,12 @@ Fluid Mode
 Full Mode
 
 ![](https://github.com/SilverDove/Parking_Simulator/blob/main/Screen/%5BFULL%20MODE%5D%20Payement.png)
+
+## Authors
+  * **Clara Tricot** - *Parking_Simulator* - [SilverDove](https://github.com/SilverDove)
+  * **Metagang Tabou** - *Parking_Simulator* - [TMetagang](https://github.com/TMetagang)
+ 
+ ## License
+ This project is licensed under the MIT license.
+
+ Copyright (c) 2019 Clara Tricot
