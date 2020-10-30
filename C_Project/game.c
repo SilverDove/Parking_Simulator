@@ -572,7 +572,6 @@ void EAST_Direction(SDL_Surface* screen, Vehicule* vehicule, int length, int hei
 
 void WEST_Direction (SDL_Surface* screen, Vehicule* vehicule, int length, int height, int pos_map[height][length]){//Vehicule goes to the WEST
   int previous_x =0, previous_y=0;
-  int previous_x =0, previous_y=0;
 
   /*vehicule displacement*/
   if ((vehicule->positionTable.x)>2 && (vehicule->positionTable.y)==4 && vehicule->state == 1){//If we have the conditions to go to the WEST
